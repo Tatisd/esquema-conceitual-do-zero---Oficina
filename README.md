@@ -1,2 +1,2 @@
-# esquema-conceitual-do-zero---Oficina
+# Esquema-conceitual-do-zero - Oficina
 Database experience - Esquema conceitual do zero - Oficina
